@@ -67,3 +67,20 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.cat-image {
+  width: 500px;
+  height: auto;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+#root {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
